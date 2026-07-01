@@ -1,4 +1,10 @@
-## Hi there 👋
+## Selam, ben Ömer👋
+Oyun Geliştiriciyim. <br>
+Oyun geliştirme süreçlerinin özellikle 2D Piksel art süreçleriyle ilgileniyorum. <br>
+Ek olarak, orta düzey Unity ve C# bilgisine sahibim. <br>
+Piksel Çizimlerimi Aseprite kullanarak hazırlıyorum. <br>
+Yayınlanmuş olan ilk oyunuma aşağıdaki linkten ulaşabilir ve inceleyebilirsiniz. <br>
+https://keddyy.itch.io/rainy-cafe
 
 <!--
 **romrers/romrers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
